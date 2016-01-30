@@ -6,11 +6,11 @@ this week you do not need to fix any tests.  I have already created the
 tests for you.  The file `point_pattern.py` contains five functions (we will
 cover what a function is in a future week).  These are:
 
-    1. `manhattan_distance`
-    1. `euclidean_distance`
-    1. `shift_point`
-    1. `check_coincident`
-    1. `check_in`
+1. `manhattan_distance`
+1. `euclidean_distance`
+1. `shift_point`
+1. `check_coincident`
+1. `check_in`
 
 I have removed sections of logic from these and noted the removal with a
 comment.  Your assignment is to use the operators/operands from the weekly
